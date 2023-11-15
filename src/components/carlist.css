@@ -1,0 +1,17 @@
+
+.car-list-container {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  .car-item {
+    border: 1px solid #ccc;
+    padding: 15px;
+    margin-bottom: 10px;
+  }
+  
+  .view-details-link {
+    color: #3498db;
+    cursor: pointer;
+  }
+  

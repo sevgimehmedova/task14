@@ -1,0 +1,19 @@
+
+.dashboard-container {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  .user-info {
+    border: 1px solid #ccc;
+    padding: 15px;
+    margin-bottom: 20px;
+  }
+  
+  .edit-button {
+    background-color: #4caf50;
+    color: white;
+    padding: 8px;
+    cursor: pointer;
+  }
+  

@@ -1,0 +1,12 @@
+
+.car-details-container {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  .car-details {
+    border: 1px solid #ccc;
+    padding: 15px;
+    margin-bottom: 20px;
+  }
+  
